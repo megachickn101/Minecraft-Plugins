@@ -1,0 +1,1 @@
+Plugin that replaces certain blocks with lava or magma blocks.

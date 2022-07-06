@@ -1,0 +1,7 @@
+name: TheFloorIsLava
+version: '${project.version}'
+main: thefloorislava.thefloorislava.TheFloorIsLava
+api-version: 1.19
+authors: [ megachickn101 ]
+description: The floor is lava
+website: megachickn101.github.io
