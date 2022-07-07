@@ -1,0 +1,1 @@
+Nerfs ore drops and makes ore drop lower tier materials when mined
