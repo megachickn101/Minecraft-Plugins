@@ -1,1 +1,1 @@
-Nerfs ore drops and lowers the tier of item when ores are mined
+A collection of Minecraft plugins
