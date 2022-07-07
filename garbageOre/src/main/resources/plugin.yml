@@ -1,0 +1,7 @@
+name: GarbageOre
+version: '${project.version}'
+main: io.github.megachickn101.garbageore.GarbageOre
+api-version: 1.19
+authors: [ megachickn101 ]
+description: Drops lower tier ores when mining
+website: megachickn101.github.io
